@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dolla/static/css/main.64b24a9c.chunk.css",
+    "main.js": "/dolla/static/js/main.e4515c3a.chunk.js",
+    "main.js.map": "/dolla/static/js/main.e4515c3a.chunk.js.map",
+    "runtime-main.js": "/dolla/static/js/runtime-main.9cb14efd.js",
+    "runtime-main.js.map": "/dolla/static/js/runtime-main.9cb14efd.js.map",
+    "static/js/2.81ea95b5.chunk.js": "/dolla/static/js/2.81ea95b5.chunk.js",
+    "static/js/2.81ea95b5.chunk.js.map": "/dolla/static/js/2.81ea95b5.chunk.js.map",
+    "index.html": "/dolla/index.html",
+    "static/css/main.64b24a9c.chunk.css.map": "/dolla/static/css/main.64b24a9c.chunk.css.map",
+    "static/js/2.81ea95b5.chunk.js.LICENSE.txt": "/dolla/static/js/2.81ea95b5.chunk.js.LICENSE.txt",
+    "static/media/svg-1.198c8835.svg": "/dolla/static/media/svg-1.198c8835.svg",
+    "static/media/svg-4.0f58175f.svg": "/dolla/static/media/svg-4.0f58175f.svg",
+    "static/media/svg-5.ab7d032d.svg": "/dolla/static/media/svg-5.ab7d032d.svg",
+    "static/media/video.d48e2181.mp4": "/dolla/static/media/video.d48e2181.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cb14efd.js",
+    "static/js/2.81ea95b5.chunk.js",
+    "static/css/main.64b24a9c.chunk.css",
+    "static/js/main.e4515c3a.chunk.js"
+  ]
+}
