@@ -57,7 +57,7 @@ export const Form = styled.div`
     background: #010101;
     max-width: 480px;
     height: auto;
-    width: 100%auto;
+    width: 100%;
     z-index: 1;
     display: grid;
     margin: 0 auto;
@@ -89,6 +89,7 @@ export const FormInput = styled.input`
     margin-bottom: 32px;
     border: none;
     border-radius: 4px;
+    outline: none;
 `;
 
 export const FormButton = styled.button`
